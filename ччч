@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Range0xE4/NerHub/main/main.lua", true))()
